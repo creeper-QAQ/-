@@ -5,8 +5,8 @@
         system.mac = p.indexOf("Mac") == 0;  
         system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);     
         if(system.win||system.mac||system.xll){//如果是电脑跳转到
-                window.location.href="#";  
+                window.location.href="gdl-ten.vercel.app\web";  
         }else{  //如果是手机,跳转到
-               window.location.href="#";  
+               window.location.href="gdl-ten.vercel.app\smartphone";  
         }
  </script>
