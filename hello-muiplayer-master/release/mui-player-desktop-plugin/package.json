@@ -1,0 +1,28 @@
+{
+  "name": "mui-player-desktop-plugin",
+  "version": "1.5.1",
+  "description": "Mui Player Desktop Plugin Javascript Library",
+  "main": "dist/mui-player-desktop-plugin.min.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muiplayer/hello-muiplayer"
+  },
+  "keywords": [
+    "muiplayer",
+    "mui-player",
+    "player",
+    "video",
+    "html5",
+    "hls",
+    "danmaku"
+  ],
+  "author": "Leisbanon",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/muiplayer/hello-muiplayer/issues"
+  },
+  "homepage": "https://github.com/muiplayer/hello-muiplayer#readme"
+}
